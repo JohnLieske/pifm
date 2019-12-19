@@ -1,5 +1,5 @@
 ```diff
-- Note: this project is no longer maintained
+- Note: the project this is forked from is no longer maintained
 ```
 
 ## UPDATE
